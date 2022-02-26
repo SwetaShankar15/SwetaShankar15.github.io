@@ -67071,7 +67071,7 @@ A.WQ.prototype={
 $0(){var s=0,r=A.Q(t.H)
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=2
-return A.L(A.bO("www.vignesh0404.github.io"),$async$$0)
+return A.L(A.bO("https://vignesh0404.github.io/"),$async$$0)
 case 2:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:2}
